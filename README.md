@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/crolette/rock-paper-scissors-master)
-- Live Site URL: (https://crolette.github.io/rock-paper-scissors-master/)
+- Solution URL: (https://crolette.github.io/social-media-dashboard-with-theme-switcher/)
+- Live Site URL: (https://crolette.github.io/social-media-dashboard-with-theme-switcher/)
 
 ## My process
 
